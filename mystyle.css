@@ -21,3 +21,20 @@ color: #8f0d23;
 .EE {
 color: #228542;
 }
+
+.img_left{
+float: left;
+}
+.img_right{
+float: right;
+}
+.img_padding{
+padding-top: 50px;
+}
+.header_padding{
+padding-top: 250px;
+padding-bottom: 50px;
+}
+.txt_padding{
+padding: 10px 50px;
+}
