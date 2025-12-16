@@ -1,8 +1,23 @@
 .kosen_orange {
+color: #f26221;
+}
 
-color: #f26221; }
 .kosen_blue {
-color: #007ac2; }
+color: #007ac2;
+}
+
 .highlight {
-font-size: 200%; 
- }
+font-size: 200%;
+}
+
+.ME {
+color: #620eb5;
+}
+
+.CE {
+color: #8f0d23;
+}
+
+.EE {
+color: #228542;
+}
