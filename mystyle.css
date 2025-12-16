@@ -1,9 +1,11 @@
 .kosen_orange {
 color: #f26221;
+font-family: "Times New Roman", Times, serif;
 }
 
 .kosen_blue {
 color: #007ac2;
+font-family: "Times New Roman", Times, serif;
 }
 
 .highlight {
@@ -12,14 +14,17 @@ font-size: 200%;
 
 .ME {
 color: #620eb5;
+font-family: "Times New Roman", Times, serif;
 }
 
 .CE {
 color: #8f0d23;
+font-family: "Times New Roman", Times, serif;
 }
 
 .EE {
 color: #228542;
+font-family: "Times New Roman", Times, serif;
 }
 
 .img_left{
