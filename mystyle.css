@@ -1,50 +1,56 @@
 .kosen_orange {
-color: #f26221;
-font-family: "Times New Roman", Times, serif;
+  color: #f26221;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .kosen_blue {
-color: #007ac2;
-font-family: "Times New Roman", Times, serif;
+  color: #007ac2;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .highlight {
-font-size: 300%;
+  font-size: 300%;
 }
 
 .ME {
-color: #620eb5;
-font-size: 150%;
-font-family: "Times New Roman", Times, serif;
+  color: #620eb5;
+  font-size: 150%;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .CE {
-color: #8f0d23;
-font-size: 150%;
-font-family: "Times New Roman", Times, serif;
+  color: #8f0d23;
+  font-size: 150%;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .EE {
-color: #228542;
-font-size: 150%;
-font-family: "Times New Roman", Times, serif;
+  color: #228542;
+  font-size: 150%;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .img_left{
-float: left;
+  float: left;
 }
 .img_right{
-float: right;
+  float: right;
 }
 .img_padding{
-padding-top: 20px;
+  padding-top: 20px;
 }
 .header_padding{
-padding-top: 250px;
-padding-bottom: 50px;
+  padding-top: 250px;
+  padding-bottom: 50px;
 }
 .txt_padding{
-padding-top: 10px;
-padding-right: 150px;
-padding-left: 150px;
+  padding-top: 10px;
+  padding-right: 150px;
+  padding-left: 150px;
+}
+.bottom{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-bottom: 5px;
 }
