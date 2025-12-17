@@ -49,10 +49,14 @@
   margin-left: 150px;
 }
 .bottom{
+  display: grid;
+  align-items: end;
   bottom: 0; right: 0; 
   margin: 10px;
 }
 .l_bottom{
+  display: grid;
+  align-items: end;
   bottom: 0; left: 0; 
   margin: 10px;
 }
