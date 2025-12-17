@@ -15,18 +15,17 @@
 
 .ME {
   color: #620eb5;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 32px;
 }
 
 .CE {
   color: #8f0d23;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 32px;
 }
 
 .EE {
   color: #228542;
+}
+
+.medium {
   font-family: "Times New Roman", Times, serif;
   font-size: 32px;
 }
