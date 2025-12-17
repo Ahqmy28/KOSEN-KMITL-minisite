@@ -51,14 +51,12 @@
 .bottom{
   position: sticky;
   bottom: 0; right: 0; 
-  margin-right: 10px;
-  background-color: white;
+  padding-right: 100px;
 }
 .l_bottom{
   position: sticky;
   bottom: 0; left: 0; 
-  margin-left: 10px;
-  background-color: white;
+  padding-left: 100px;
 }
 .big-text{
     font-size: 18px;
