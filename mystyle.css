@@ -60,6 +60,10 @@
   margin-left: 10px;
   background-color: white;
 }
-.big-text {
+.big-text{
     font-size: 18px;
+}
+.section-space{
+    padding-top: 60px;
+    clear: both;
 }
