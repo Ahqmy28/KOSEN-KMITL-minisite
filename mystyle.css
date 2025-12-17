@@ -52,11 +52,13 @@
   position: sticky;
   bottom: 0; right: 0; 
   margin-right: 10px;
+  background-color: white;
 }
 .l_bottom{
   position: sticky;
   bottom: 0; left: 0; 
   margin-left: 10px;
+  background-color: white;
 }
 .big-text {
     font-size: 20px;
