@@ -62,5 +62,9 @@
   padding-right: 50px;
 }
 .big-text{
-    font-size: 18px;
+  font-size: 18px;
+}
+.bg{
+  background-image: url("images/student.jpg");
+  opacity: 0.4;
 }
