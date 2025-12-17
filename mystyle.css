@@ -56,9 +56,4 @@
   bottom: 0; left: 0; 
   margin: 10px;
 }
-.bullet-right {
-  list-style-position: inside;
-  direction: rtl;
-  text-align: left;
-}
 
