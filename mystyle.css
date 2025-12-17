@@ -30,26 +30,31 @@
   font-size: 32px;
 }
 
-.img_left{
+.img_left {
   float: left;
   padding-right: 50px;
 }
-.img_right{
+
+.img_right {
   float: right;
   padding-left: 50px;
 }
-.img_padding{
+
+.img_padding {
   padding-top: 20px;
 }
-.header_padding{
+
+.header_padding {
   padding-top: 250px;
   padding-bottom: 50px;
 }
-.txt_padding{
+
+.txt_padding {
   padding-top: 10px;
   margin-right: 150px;
   margin-left: 150px;
 }
-.big-text{
+
+.big-text {
   font-size: 24px;
 }
