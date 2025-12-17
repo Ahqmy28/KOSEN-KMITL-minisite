@@ -45,11 +45,11 @@
 }
 .txt_padding{
   padding-top: 10px;
-  padding-right: 150px;
-  padding-left: 150px;
+  margin-right: 150px;
+  margin-left: 150px;
 }
 .bottom{
   position: absolute; 
   bottom: 0; right: 0; 
-  padding: 10px;
+  margin: 10px;
 }
